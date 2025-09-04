@@ -1,0 +1,194 @@
+@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .response-content {
+    @apply max-w-4xl mx-auto px-3 py-2 text-gray-100 font-normal leading-normal;
+  }
+  
+  /* Typography Hierarchy with reduced spacing */
+  .response-content h1, 
+  .response-content h2, 
+  .response-content h3, 
+  .response-content h4, 
+  .response-content h5, 
+  .response-content h6 {
+    @apply font-medium tracking-tight antialiased m-0 leading-tight;
+  }
+  
+  .response-content h1 { 
+    @apply text-3xl sm:text-4xl mt-1 text-indigo-300 font-bold; 
+  }
+  
+  .response-content h2 { 
+    @apply text-2xl sm:text-3xl mt-1 mb-1 text-blue-300 border-b border-blue-800/30 pb-1; 
+  }
+  
+  .response-content h3 { 
+    @apply text-xl sm:text-2xl mt-1 mb-1 text-teal-300; 
+  }
+  
+  .response-content h4 { 
+    @apply text-lg sm:text-xl mt-1 text-green-300; 
+  }
+  
+  .response-content h5 { 
+    @apply text-base sm:text-lg mt-1 text-amber-300; 
+  }
+  
+  .response-content h6 { 
+    @apply text-sm sm:text-base mt-1 text-orange-300 italic; 
+  }
+  
+  /* Text Elements with reduced spacing */
+  .response-content p {
+    @apply text-base -mt-1 -mb-1 text-gray-200 leading-snug;
+  }
+  
+  .response-content small {
+    @apply text-xs text-gray-400;
+  }
+  
+  .response-content em {
+    @apply italic text-purple-300;
+  }
+  
+  .response-content strong {
+    @apply font-bold text-blue-300;
+  }
+  
+  .response-content a {
+    @apply text-blue-400 underline underline-offset-2 hover:text-blue-300 transition-colors duration-200;
+  }
+  
+  /* Lists with reduced spacing */
+  .response-content ol, .response-content ul {
+    @apply my-0.5 pl-5;
+  }
+  
+  .response-content ol {
+    @apply list-decimal;
+  }
+  
+  .response-content ul {
+    @apply list-disc;
+  }
+  
+  .response-content li {
+    @apply my-0.5 text-gray-200;
+  }
+  
+  .response-content ol ul,
+  .response-content ol ol,
+  .response-content ul ul,
+  .response-content ul ol {
+    @apply my-0.5 ml-4;
+  }
+  
+  /* Horizontal Rule with reduced spacing */
+  .response-content hr {
+    @apply my-2 border-t border-gray-700/50 rounded;
+  }
+  
+  /* Blockquotes with reduced spacing */
+  .response-content blockquote {
+    @apply pl-3 py-0.5 my-1 border-l-2 border-cyan-500 bg-gray-800/30 italic rounded-r text-gray-300;
+  }
+  
+  .response-content blockquote + figcaption {
+    @apply -mt-1 mb-1 text-sm text-right text-gray-400 italic pr-2;
+  }
+  
+  .response-content blockquote + figcaption::before {
+    content: "— ";
+    @apply text-gray-500;
+  }
+  
+  /* Code Elements with reduced spacing */
+  .response-content pre {
+    @apply my-1 p-1 rounded bg-gray-900/70 border border-gray-700 overflow-x-auto text-sm;
+  }
+  
+  .response-content code {
+    @apply px-1 py-0 rounded bg-gray-800 text-cyan-300 font-mono text-sm border border-gray-700/50;
+  }
+  
+  .response-content pre code {
+    @apply block p-0 bg-transparent border-0 text-gray-200 whitespace-pre overflow-visible;
+  }
+  
+  /* Tables with reduced spacing */
+  .response-content table {
+    @apply w-full my-2 border-collapse rounded overflow-hidden border border-gray-700;
+  }
+  
+  .response-content table thead {
+    @apply bg-gray-800;
+  }
+  
+  .response-content table tr {
+    @apply border-b border-gray-700 hover:bg-gray-800/50 transition-colors duration-150;
+  }
+  
+  .response-content table tr:nth-child(2n) {
+    @apply bg-gray-800/30;
+  }
+  
+  .response-content table th {
+    @apply p-1 text-left font-medium text-gray-200 uppercase text-sm tracking-wider;
+  }
+  
+  .response-content table td {
+    @apply p-1 text-gray-300;
+  }
+  
+  /* Special Elements */
+  .response-content abbr {
+    @apply font-medium cursor-help border-b border-dotted border-gray-500 text-gray-300;
+  }
+  
+  /* Hide scrollbar but maintain functionality */
+  .response-content::-webkit-scrollbar {
+    @apply hidden;
+  }
+  
+  /* Special Styling for Code Syntax */
+  .response-content .hljs-keyword {
+    @apply text-pink-400;
+  }
+  
+  .response-content .hljs-string {
+    @apply text-green-400;
+  }
+  
+  .response-content .hljs-comment {
+    @apply text-gray-500 italic;
+  }
+  
+  .response-content .hljs-function {
+    @apply text-blue-400;
+  }
+  
+  .response-content .hljs-number {
+    @apply text-orange-400;
+  }
+  
+  /* Card-like elements with reduced spacing */
+  .response-content .info-card {
+    @apply bg-blue-900/20 border border-blue-800 rounded p-2 my-2;
+  }
+  
+  .response-content .warning-card {
+    @apply bg-amber-900/20 border border-amber-800 rounded p-2 my-2;
+  }
+  
+  .response-content .error-card {
+    @apply bg-red-900/20 border border-red-800 rounded p-2 my-2;
+  }
+  
+  .response-content .success-card {
+    @apply bg-green-900/20 border border-green-800 rounded p-2 my-2;
+  }
+}

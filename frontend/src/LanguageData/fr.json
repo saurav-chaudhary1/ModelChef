@@ -1,0 +1,92 @@
+{
+    "navbar": {
+      "Title": "ModelChef",
+      "Buttons": ["Accueil", "Ajustement Fin", "Chat", "Génération d'Images", "Texte en Parole"],
+      "Login": "Se Connecter",
+      "Signup": "S'inscrire"
+    },
+    "hero": {
+      "Half_title": "Ajustez des modèles IA avec",
+      "Second_half_title": "zéro complexité",
+      "Decsription": "Entraînez des modèles d'IA personnalisés sans coder. Des solutions en un clic pour les débutants aux options avancées pour les experts.",
+      "Get_started": "Commencer",
+      "Watch_demo": "Voir la démo",
+      "supported_models": "Modèles Pris en Charge",
+      "active_users": "Utilisateurs Actifs",
+      "uptime": "Disponibilité",
+      "support": "Assistance"
+    },
+    "features": {
+      "title": "Fonctionnalités Puissantes d'IA",
+      "Decsription": "Tout ce dont vous avez besoin pour créer, ajuster et déployer des modèles d'IA personnalisés selon vos besoins.",
+      "feature1_title": "Ajustement en Un Clic",
+      "feature1_description": "Téléchargez vos données et commencez l'ajustement d’un simple clic. Aucune compétence technique requise.",
+      "feature2_title": "Configurations Avancées",
+      "feature2_description": "Ajustez les hyperparamètres, les taux d'apprentissage et l'architecture du modèle pour les utilisateurs techniques.",
+      "feature3_title": "Chatbots Interactifs",
+      "feature3_description": "Testez vos modèles ajustés avec une interface de chat intégrée pour évaluer les performances.",
+      "feature4_title": "Génération d'Images",
+      "feature4_description": "Générez des images personnalisées avec des modèles de diffusion adaptés à votre style.",
+      "feature5_title": "Texte en Parole",
+      "feature5_description": "Convertissez du texte en voix naturelle à l'aide de modèles vocaux personnalisables.",
+      "feature6_title": "Déploiement de Modèle",
+      "feature6_description": "Déployez vos modèles ajustés avec un accès API pour une intégration dans vos applications."
+    },
+    "howItWorks": {
+      "title": "Comment ça Marche",
+      "Description": "Mettez vos modèles d’IA personnalisés en service en quelques minutes grâce à notre processus simplifié.",
+      "working1_title": "Téléchargez vos données",
+      "working1_description": "Glissez-déposez simplement vos données d'entraînement dans divers formats (texte, images, CSV, JSON).",
+      "working2_title": "Choisissez vos Paramètres",
+      "working2_description": "Sélectionnez un modèle de base et configurez les paramètres ou utilisez nos paramètres recommandés.",
+      "working3_title": "Lancez l'Ajustement",
+      "working3_description": "Cliquez sur démarrer et notre plateforme s’occupe du reste, vous informant lorsque votre modèle est prêt."
+    },
+    "whyChooseUs": {
+      "Half_title": "Pourquoi Choisir",
+      "Description": "Que vous soyez data scientist, développeur ou passionné — ModelChef vous permet d'ajuster facilement de puissants modèles IA. Pas de code. Pas de stress. Juste des résultats.",
+      "start_fine_tun_button": "Commencer l’Ajustement →",
+      "reason1_title": "⚡️ Entraînement en Un Clic",
+      "reason1_description": "Choisissez un modèle, téléchargez vos données et cliquez sur entraîner. Nous nous occupons du reste.",
+      "reason2_title": "🔋 GPUs à l’Usage",
+      "reason2_description": "Payez uniquement pour le temps de calcul utilisé — aucun abonnement nécessaire.",
+      "reason3_title": "📁 Données Auto-Adaptées",
+      "reason3_description": "Téléchargez des fichiers CSV, JSON ou des datasets HuggingFace — nous traitons et préparons automatiquement vos données pour un entraînement fluide.",
+      "reason4_title": "🎛️ Paramètres Personnalisables",
+      "reason4_description": "Ajustez les modèles avec nos meilleurs paramètres par défaut ou, si vous êtes un utilisateur technique, définissez vos propres préférences.",
+      "reason5_title": "🔒 Vos Données sont Sécurisées",
+      "reason5_description": "Nous prenons votre vie privée au sérieux. Vos données téléchargées ne seront jamais utilisées pour l’entraînement IA, l’analyse ou partagées avec des tiers sans votre autorisation explicite. Vous gardez toujours le contrôle total, et rien ne se passe avec vos données sauf si",
+      "reason5_description_strong": "vous",
+      "reason5_description_rest": " le décidez."
+    },
+    "cta": {
+      "title": "Prêt à Créer Votre IA Personnalisée ?",
+      "Description": "Commencez à ajuster vos modèles selon vos besoins spécifiques en quelques minutes. Rejoignez des milliers d’entreprises qui utilisent déjà notre plateforme.",
+      "get_started": "Commencer Gratuitement",
+      "Schedule_demo": "Planifier une Démo",
+      "no_credit": "Carte de crédit non requise. La version gratuite inclut 10 heures d'entraînement."
+    },
+    "footer": {
+      "para1": "La manière la plus simple d’ajuster des modèles IA selon vos",
+      "para2": "besoins.",
+      "product": "Produit",
+      "product1": "Fonctionnalités",
+      "product2": "Modèles",
+      "product3": "Tarifs",
+      "product4": "Sécurité",
+      "company": "Entreprise",
+      "company1": "À propos",
+      "company2": "Carrières",
+      "company3": "Contact",
+      "company4": "Politique de Confidentialité",
+      "company5": "Conditions d’Utilisation",
+      "copyright": "© 2024 CodeChef. Tous droits réservés."
+    },
+    "demo": {
+      "title": "Envie d’en savoir plus sur nous ?",
+      "Description": "Ne gardez aucun doute ou question en tête, posez-les à notre IA et découvrez tout ce que vous souhaitez savoir.",
+      "chat_with_assistant": "Discuter avec notre Assistant IA.",
+      "starting_message": "Bonjour ! Je suis votre assistant virtuel. Comment puis-je vous aider aujourd’hui ?"
+    }
+  }
+  

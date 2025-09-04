@@ -1,0 +1,91 @@
+{
+    "navbar":{
+        "Title" : "ModelChef",
+        "Buttons" : ["Home" , "FineTune" , "Chat" , "Models" , "Datasets"],
+        "Login" : "Log In",
+        "Signup" : "Sign Up"
+    },
+    "hero":{
+        "Half_title" : "Fine-tune AI models with",
+        "Second_half_title" : "zero complexity",
+        "Decsription" : "Train custom AI models tailored to your needs without coding. From one-click solutions for beginners to advanced options for experts.",
+        "Get_started" : "Get Started",
+        "Watch_demo" : "Watch Demo",
+        "supported_models" : "Supported Models",
+        "active_users" : "Active Users",
+        "uptime" : "Uptime",
+        "support" : "Support"
+    },
+    "features":{
+        "title" : "Powerful AI Features",
+        "Decsription" : "Everything you need to create, fine-tune, and deploy custom AI models tailored to your specific needs.",
+        "feature1_title": "One-Click Fine-Tuning",
+        "feature1_description" : "Upload your data and start fine-tuning with a single click. No technical knowledge required.",
+        "feature2_title" : "Advanced Configurations",
+        "feature2_description" : "Fine-tune hyperparameters, learning rates, and model architecture for technical users.",
+        "feature3_title" : "Interactive Chatbots",
+        "feature3_description" : "Test your fine-tuned models with a built-in chat interface to evaluate performance.",
+        "feature4_title" : "Image Generation",
+        "feature4_description" : "Generate custom images with fine-tuned diffusion models tailored to your style.",
+        "feature5_title" : "Text-to-Speech",
+        "feature5_description" : "Convert text to natural-sounding speech using customizable voice models.",
+        "feature6_title" : "Model Deployment",
+        "feature6_description" : "Deploy your fine-tuned models with API access for integration with your applications."
+    },
+    "howItWorks":{
+        "title" : "How It Works",
+        "Description" : "Get your custom AI models up and running in minutes with our simple process.",
+        "working1_title" : "Upload your data",
+        "working1_description" : "Simply drag and drop your training data in various formats (text, images, CSV, JSON).",
+        "working2_title" : "Choose your Settings",
+        "working2_description" : "Select a base model and configure parameters or use our recommended defaults.",
+        "working3_title" : "Start Fine Tuning",
+        "working3_description" : "Click start and our platform handles the rest, notifying you when your model is ready."
+    },
+    "whyChooseUs":{
+        "Half_title" : "Why Choose",
+        "Description" : "Whether you're a data scientist, developer, or enthusiast — ModelChef lets you fine-tune powerful AI models with ease. No code. No stress. Just results.",
+        "start_fine_tun_button" : "Start Fine-Tuning →",
+        "reason1_title" : "⚡️ One-Click Training",
+        "reason1_description" : "Choose a model, upload your data, and click train. We handle the rest.",
+        "reason2_title" : "🔋 Pay-as-You-Go GPUs",
+        "reason2_description" : "Only pay for the compute time you use — no subscriptions needed.",
+        "reason3_title" : "📁 Auto-Adapted Data",
+        "reason3_description" : "Upload CSV, JSON, or HuggingFace datasets — we automatically process and prepare your data for seamless training.",
+        "reason4_title" : "🎛️ Customizable Parameters",
+        "reason4_description" : "Fine-tune models with either our best default settings or if you are a techinal user you can choose your own best settings.",
+        "reason5_title" : "🔒 Your Data is Safe",
+        "reason5_description" : "We take your privacy seriously. Your uploaded data will never be used for AI training, analysis, or any third-party access without your clear and explicit permission. You are always in full control, and nothing happens with your data unless",
+        "reason5_description_strong" : "you",
+        "reason5_description_rest" : " decide it should."
+    },
+    "cta":{
+        "title" : "Ready to Build Your Custom AI?",
+        "Description" : "Start fine-tuning models to your specific needs in minutes, not months. Join thousands of companies already using our platform.",
+        "get_started" : "Get Started Free",
+        "Schedule_demo" : "Schedule Demo",
+        "no_credit" : "No credit card required. Free tier includes 10 hours of training."
+    },
+    "footer":{
+        "para1" : "The easiest way to fine-tune AI models for your specific",
+        "para2" : "needs.",
+        "product" : "Product",
+        "product1" : "Features",
+        "product2" : "Models",
+        "product3" : "Pricing",
+        "product4" : "Security",
+        "company" : "Company",
+        "company1" : "About Us",
+        "company2" : "Careers",
+        "company3" : "Contact",
+        "company4" : "Privacy Policy",
+        "company5" : "Terms of Service",
+        "copyright" : "© 2024 ModelChef. All rights reserved."
+    },
+    "demo":{
+        "title" : "Want to know more about us?",
+        "Description" : "Don't keep any doubts or questions in your mind , ask our AI and you will know all you want to about us.",
+        "chat_with_assistant" : "Chat with our AI Assistant.",
+        "starting_message" : "Hi there! I'm your virtual assistant. How can I help you today?"
+    }
+}

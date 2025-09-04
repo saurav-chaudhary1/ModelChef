@@ -1,0 +1,92 @@
+{
+    "navbar": {
+      "Title": "ModelChef",
+      "Buttons": ["Startseite", "Feinabstimmung", "Chat", "Bildgenerierung", "Text-zu-Sprache"],
+      "Login": "Einloggen",
+      "Signup": "Registrieren"
+    },
+    "hero": {
+      "Half_title": "KI-Modelle feinabstimmen mit",
+      "Second_half_title": "null Komplexität",
+      "Decsription": "Trainiere benutzerdefinierte KI-Modelle nach deinen Bedürfnissen – ganz ohne Programmierkenntnisse. Von Ein-Klick-Lösungen für Anfänger bis zu fortgeschrittenen Optionen für Experten.",
+      "Get_started": "Jetzt starten",
+      "Watch_demo": "Demo ansehen",
+      "supported_models": "Unterstützte Modelle",
+      "active_users": "Aktive Nutzer",
+      "uptime": "Betriebszeit",
+      "support": "Support"
+    },
+    "features": {
+      "title": "Leistungsstarke KI-Funktionen",
+      "Decsription": "Alles, was du brauchst, um benutzerdefinierte KI-Modelle zu erstellen, feinabzustimmen und bereitzustellen.",
+      "feature1_title": "Ein-Klick-Feinabstimmung",
+      "feature1_description": "Lade deine Daten hoch und starte die Feinabstimmung mit einem Klick. Keine technischen Kenntnisse erforderlich.",
+      "feature2_title": "Erweiterte Konfigurationen",
+      "feature2_description": "Feinabstimmung von Hyperparametern, Lernraten und Modellarchitektur für technische Benutzer.",
+      "feature3_title": "Interaktive Chatbots",
+      "feature3_description": "Teste deine feinabgestimmten Modelle mit einer integrierten Chat-Oberfläche zur Leistungsbewertung.",
+      "feature4_title": "Bildgenerierung",
+      "feature4_description": "Erzeuge individuelle Bilder mit feinabgestimmten Diffusionsmodellen, die deinem Stil entsprechen.",
+      "feature5_title": "Text-zu-Sprache",
+      "feature5_description": "Konvertiere Text in natürlich klingende Sprache mit anpassbaren Sprachmodellen.",
+      "feature6_title": "Modellbereitstellung",
+      "feature6_description": "Stelle deine feinabgestimmten Modelle per API zur Integration in deine Anwendungen bereit."
+    },
+    "howItWorks": {
+      "title": "So funktioniert's",
+      "Description": "Erhalte deine benutzerdefinierten KI-Modelle in wenigen Minuten mit unserem einfachen Prozess.",
+      "working1_title": "Daten hochladen",
+      "working1_description": "Ziehe deine Trainingsdaten per Drag & Drop in verschiedenen Formaten (Text, Bilder, CSV, JSON).",
+      "working2_title": "Einstellungen wählen",
+      "working2_description": "Wähle ein Basismodell und konfiguriere Parameter – oder nutze unsere empfohlenen Standardwerte.",
+      "working3_title": "Feinabstimmung starten",
+      "working3_description": "Klicke auf Start und unsere Plattform übernimmt den Rest – du wirst benachrichtigt, wenn dein Modell bereit ist."
+    },
+    "whyChooseUs": {
+      "Half_title": "Warum",
+      "Description": "Egal ob Datenwissenschaftler, Entwickler oder Enthusiast – ModelChef ermöglicht dir die einfache Feinabstimmung leistungsstarker KI-Modelle. Kein Code. Kein Stress. Nur Ergebnisse.",
+      "start_fine_tun_button": "Feinabstimmung starten →",
+      "reason1_title": "⚡️ Ein-Klick-Training",
+      "reason1_description": "Wähle ein Modell, lade deine Daten hoch und klicke auf Trainieren. Wir übernehmen den Rest.",
+      "reason2_title": "🔋 GPU nach Verbrauch",
+      "reason2_description": "Zahle nur für die Rechenzeit, die du tatsächlich nutzt – kein Abo nötig.",
+      "reason3_title": "📁 Automatisch angepasste Daten",
+      "reason3_description": "Lade CSV-, JSON- oder HuggingFace-Datensätze hoch – wir verarbeiten und bereiten deine Daten automatisch für das Training vor.",
+      "reason4_title": "🎛️ Anpassbare Parameter",
+      "reason4_description": "Feinabstimmung mit unseren besten Standardeinstellungen – oder passe sie als technischer Nutzer selbst an.",
+      "reason5_title": "🔒 Deine Daten sind sicher",
+      "reason5_description": "Wir nehmen Datenschutz ernst. Deine hochgeladenen Daten werden niemals ohne deine klare Zustimmung für KI-Training, Analyse oder durch Dritte genutzt.",
+      "reason5_description_strong": "Du",
+      "reason5_description_rest": " entscheidest, was mit deinen Daten geschieht."
+    },
+    "cta": {
+      "title": "Bereit für dein eigenes KI-Modell?",
+      "Description": "Beginne in wenigen Minuten mit der Feinabstimmung – nicht in Monaten. Schließe dich tausenden Unternehmen an, die unsere Plattform bereits nutzen.",
+      "get_started": "Jetzt kostenlos starten",
+      "Schedule_demo": "Demo vereinbaren",
+      "no_credit": "Keine Kreditkarte erforderlich. Die kostenlose Version beinhaltet 10 Trainingsstunden."
+    },
+    "footer": {
+      "para1": "Der einfachste Weg, KI-Modelle für deine",
+      "para2": "spezifischen Bedürfnisse feinabzustimmen.",
+      "product": "Produkt",
+      "product1": "Funktionen",
+      "product2": "Modelle",
+      "product3": "Preise",
+      "product4": "Sicherheit",
+      "company": "Unternehmen",
+      "company1": "Über uns",
+      "company2": "Karriere",
+      "company3": "Kontakt",
+      "company4": "Datenschutzrichtlinie",
+      "company5": "Nutzungsbedingungen",
+      "copyright": "© 2024 CodeChef. Alle Rechte vorbehalten."
+    },
+    "demo": {
+      "title": "Möchtest du mehr über uns erfahren?",
+      "Description": "Hast du Fragen oder Zweifel? Frag einfach unsere KI – sie kennt alle Antworten rund um uns.",
+      "chat_with_assistant": "Chatte mit unserem KI-Assistenten.",
+      "starting_message": "Hallo! Ich bin dein virtueller Assistent. Wie kann ich dir heute helfen?"
+    }
+  }
+  

@@ -1,0 +1,91 @@
+{
+    "navbar": {
+        "Title": "ModelChef",
+        "Buttons": ["主页", "微调", "聊天", "图像生成", "文本转语音"],
+        "Login": "登录",
+        "Signup": "注册"
+    },
+    "hero": {
+        "Half_title": "微调 AI 模型，",
+        "Second_half_title": "零复杂度",
+        "Decsription": "无需编程，根据您的需求训练定制 AI 模型。提供从一键式解决方案（适合初学者）到高级选项（适合专家）的完整方案。",
+        "Get_started": "开始使用",
+        "Watch_demo": "观看演示",
+        "supported_models": "支持的模型",
+        "active_users": "活跃用户",
+        "uptime": "正常运行时间",
+        "support": "支持服务"
+    },
+    "features": {
+        "title": "强大的 AI 功能",
+        "Decsription": "提供创建、微调和部署定制 AI 模型所需的一切，满足您的特定需求。",
+        "feature1_title": "一键微调",
+        "feature1_description": "上传您的数据，一键开始微调。无需技术知识。",
+        "feature2_title": "高级配置",
+        "feature2_description": "为技术用户提供微调超参数、学习率和模型架构的选项。",
+        "feature3_title": "交互式聊天机器人",
+        "feature3_description": "通过内置聊天界面测试您的微调模型，评估其性能。",
+        "feature4_title": "图像生成",
+        "feature4_description": "使用根据您风格微调的扩散模型生成自定义图像。",
+        "feature5_title": "文本转语音",
+        "feature5_description": "使用可自定义的语音模型将文本转换为自然语音。",
+        "feature6_title": "模型部署",
+        "feature6_description": "通过 API 访问部署您的微调模型，便于与应用程序集成。"
+    },
+    "howItWorks": {
+        "title": "操作流程",
+        "Description": "通过我们的简化流程，在几分钟内启动并运行您的自定义 AI 模型。",
+        "working1_title": "上传您的数据",
+        "working1_description": "只需拖放您的训练数据，支持多种格式（文本、图像、CSV、JSON）。",
+        "working2_title": "选择设置",
+        "working2_description": "选择一个基础模型并配置参数，或使用我们推荐的默认设置。",
+        "working3_title": "开始微调",
+        "working3_description": "点击开始，我们的平台将自动处理，并在模型准备就绪时通知您。"
+    },
+    "whyChooseUs": {
+        "Half_title": "为什么选择",
+        "Description": "无论您是数据科学家、开发者还是 AI 爱好者 — ModelChef 都能让您轻松微调强大的 AI 模型。无需编码，无压力，只需结果。",
+        "start_fine_tun_button": "开始微调 →",
+        "reason1_title": "⚡️ 一键训练",
+        "reason1_description": "选择模型，上传数据，然后点击开始训练，其余由我们搞定。",
+        "reason2_title": "🔋 按需付费的 GPU",
+        "reason2_description": "只为您实际使用的计算时间付费 — 无需订阅。",
+        "reason3_title": "📁 自动适配数据",
+        "reason3_description": "上传 CSV、JSON 或 HuggingFace 数据集 — 我们自动处理并准备您的数据，实现无缝训练。",
+        "reason4_title": "🎛️ 可自定义参数",
+        "reason4_description": "可以使用我们的最佳默认设置微调模型，或者如果您是技术用户，也可以选择自定义设置。",
+        "reason5_title": "🔒 您的数据是安全的",
+        "reason5_description": "我们非常重视您的隐私。您上传的数据不会在未经您明确许可的情况下用于 AI 训练、分析或第三方访问。您始终掌控一切，除非",
+        "reason5_description_strong": "您",
+        "reason5_description_rest": " 决定允许，否则数据不会被使用。"
+    },
+    "cta": {
+        "title": "准备好构建您的专属 AI 吗？",
+        "Description": "几分钟即可开始微调模型以满足您的特定需求，而不是几个月。加入已有数千家公司使用的平台。",
+        "get_started": "免费开始",
+        "Schedule_demo": "安排演示",
+        "no_credit": "无需信用卡。免费套餐包含 10 小时训练时间。"
+    },
+    "footer": {
+        "para1": "最简单的方式来微调适合您特定需求的 AI 模型，",
+        "para2": "满足您的需求。",
+        "product": "产品",
+        "product1": "功能",
+        "product2": "模型",
+        "product3": "定价",
+        "product4": "安全性",
+        "company": "公司",
+        "company1": "关于我们",
+        "company2": "招聘信息",
+        "company3": "联系我们",
+        "company4": "隐私政策",
+        "company5": "服务条款",
+        "copyright": "© 2024 CodeChef。保留所有权利。"
+    },
+    "demo": {
+        "title": "想了解更多关于我们的信息？",
+        "Description": "不要心存疑问，有什么问题尽管问我们的 AI，你会了解你想知道的一切。",
+        "chat_with_assistant": "与我们的 AI 助手聊天。",
+        "starting_message": "你好！我是你的虚拟助手。今天我能帮你做些什么？"
+    }
+}
